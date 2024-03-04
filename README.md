@@ -1,2 +1,3 @@
-# cbsd-llama2-pf
-Final project for the course Cognitive, Behavioral and Social Data (UniPD)
+# Prefrontal Functioning on Llama 2
+
+Statistical analysis and comparison of Llama 2's performance with human performance in a series of cognitive functioning tests.
